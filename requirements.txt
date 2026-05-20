@@ -1,0 +1,14 @@
+pandas
+seaborn
+ipykernel
+notebook
+brian2
+numpy
+scipy
+matplotlib
+sympy
+pyparsing
+jinja2
+cython
+setuptools
+plotly
